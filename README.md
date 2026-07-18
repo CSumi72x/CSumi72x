@@ -10,3 +10,9 @@
 - 🔐 Exploring Cryptography, Privacy-Preserving Authentication, and Secure System Design
 - 🌱 Currently working with **Python, FastAPI, React, MongoDB, and Git**
 - 🚀 Always eager to learn new technologies and build impactful software solutions
+
+- ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,fastapi,mongodb,mysql,pytorch,git,github,vscode,linux,anaconda" />
+</p>
