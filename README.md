@@ -28,3 +28,9 @@ Privacy-preserving authentication using the OPAQUE protocol.
 ### 📝 [nanoTagore](https://github.com/CSumi72x/YOUR_REPO_NAME)
 
 A Small Language Model inspired by nanoGPT.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CSumi72x&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSumi72x&layout=compact&theme=tokyonight"/>
+</p>
