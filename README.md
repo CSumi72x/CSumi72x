@@ -16,3 +16,15 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,fastapi,mongodb,mysql,pytorch,git,github,vscode,anaconda" />
 </p>
+
+## 🚀 Featured Projects
+
+### 🔐 [OPAQUE Authentication System](https://github.com/CSumi72x/YOUR_REPO_NAME)
+
+Privacy-preserving authentication using the OPAQUE protocol.
+
+---
+
+### 📝 [nanoTagore](https://github.com/CSumi72x/YOUR_REPO_NAME)
+
+A Small Language Model inspired by nanoGPT.
