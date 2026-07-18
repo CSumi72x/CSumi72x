@@ -2,43 +2,43 @@
   <img src="banner.png.png" alt="Banner" width="100%">
 </p>
 
-## 👩‍💻 About Me
+##  About Me
 
 - 🎓 B.Tech Computer Science & Engineering student at **Barak Valley Engineering College (BVEC), Assam**
 - 💼 Former Research Intern at **IIIT Guwahati**
 - 💻 Full-Stack Developer with **Python, FastAPI, React, and MongoDB**
 - 🚀 Passionate about learning and building real-world applications
 
-## 🌟 Current Interests
+##  Current Interests
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🧠 Deep Learning & NLP
 - 🔐 Cryptography & Secure Systems
 - 🌐 Full-Stack Development
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,fastapi,mongodb,mysql,pytorch,git,github,vscode,anaconda" />
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔐 OpaqueID
+###  OpaqueID
 
 Privacy-preserving authentication using the OPAQUE protocol.
 
-### 📝 nanoTagore
+###  nanoTagore
 
 A Small Language Model inspired by nanoGPT for Bengali poetry generation.
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CSumi72x&theme=tokyonight"/>
 </p>
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumi-chasa-a665a830a/" target="_blank">
