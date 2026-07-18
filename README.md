@@ -24,7 +24,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔐 OPAQUE Authentication System
+### 🔐 OpaqueID
 
 Privacy-preserving authentication using the OPAQUE protocol.
 
